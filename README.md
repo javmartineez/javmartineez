@@ -22,6 +22,7 @@ I'm a builder: I like understanding how things work end to end, and turning math
 |---|---|---|
 | [**EduPredict**](https://github.com/javmartineez/EduPredict) | End-to-end ML on ~4,400 university students: dropout classification (macro F1 0.72), grade regression and clustering of student profiles | scikit-learn · pandas |
 | [**KurtzQuest**](https://github.com/javmartineez/KurtzQuest) | AI agents solving a hostile environment with propositional logic, Bayesian beliefs and an MDP solved by value iteration | Python · Rich |
+| [**StreetWise**](https://github.com/javmartineez/StreetWise) | Turn-by-turn GPS navigator for Madrid: OpenStreetMap road graph, geocoding with fuzzy matching and Dijkstra written from scratch | NetworkX · OSMnx |
 | [**GraphCart**](https://github.com/javmartineez/GraphCart) | Product recommender over Amazon reviews combining MySQL, MongoDB and Neo4j (Pearson similarity graphs) | SQL · MongoDB · Neo4j |
 | [**CryptoChat**](https://github.com/javmartineez/CryptoChat) | End-to-end encrypted chat on RSA written from scratch, plus the attacks that break textbook RSA | Python · pytest |
 | [**PitWall**](https://github.com/javmartineez/PitWall) | F1 data pipeline (Scrapy + REST API) studying how pit-stop strategy relates to race results | Scrapy · pandas |
