@@ -1,6 +1,6 @@
 # Hi, I'm Javier Martínez Berenguer 👋
 
-**Mathematical Engineering & AI student at Universidad Pontificia Comillas – ICAI (Madrid)** · top 10 % of class
+**Mathematical Engineering & AI student at Universidad Pontificia Comillas – ICAI (Madrid)** 
 
 I'm a builder: I like understanding how things work end to end, and turning mathematics, data and code into tools that support real decisions. I'm especially interested in the meeting point of **quantitative modelling, AI and finance**.
 
