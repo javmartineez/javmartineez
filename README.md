@@ -2,7 +2,7 @@
 
 **Mathematical Engineering & AI student at Universidad Pontificia Comillas – ICAI (Madrid)** 
 
-I'm a builder: I like understanding how things work end to end, and turning mathematics, data and code into tools that support real decisions. I'm especially interested in the meeting point of **quantitative modelling, AI and finance**.
+Welcome! Here's the page of someone who likes understanding how things work end to end, turning mathematics, data and code into tools that support real decisions. I'm especially interested in the meeting point of **quantitative modelling, AI and finance**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Mart%C3%ADnez%20Berenguer-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-mart%C3%ADnez-berenguer)
 [![Email](https://img.shields.io/badge/Email-m.b6javier%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:m.b6javier@gmail.com)
